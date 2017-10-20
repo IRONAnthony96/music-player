@@ -12,6 +12,7 @@ Python音乐播放器
 - 播放上一首歌曲
 - 播放下一首歌曲
 - 停止播放
+
 ![界面](https://github.com/viljw/MusicPlayer/blob/master/Images/1.PNG)
 
 
